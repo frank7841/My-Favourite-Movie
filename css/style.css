@@ -1,8 +1,12 @@
-body {background-color: beige;
+body{background-color: beige;
 }
 h1{
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: chocolate;
 }
 p em{
     font-style:normal;
+}
+strong{ font-style: italic;
+
 }
