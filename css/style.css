@@ -25,3 +25,15 @@ img {
 h3 {
     font-weight: normal;
 }
+.column{
+    float: left;
+    width: 33%;
+}
+.row:after{
+    content:"" ;
+    display: table;
+    clear: both;
+}
+p {
+    line-height: 1em;
+}
