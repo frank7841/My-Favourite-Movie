@@ -5,13 +5,15 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 color: chocolate;
 text-align: center;
 }
-a{
-    border: 1px solid;
+a.link{
+    border: 2px solid;
     width: auto;
     cursor: pointer;
     color: black;
     text-decoration: none;
-    
+}
+a {
+    line-height: 2em;
 }
 p em{
     font-style:normal;
