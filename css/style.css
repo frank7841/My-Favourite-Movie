@@ -5,6 +5,14 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 color: chocolate;
 text-align: center;
 }
+a{
+    border: 1px solid;
+    width: auto;
+    cursor: pointer;
+    color: black;
+    text-decoration: none;
+    
+}
 p em{
     font-style:normal;
 }
