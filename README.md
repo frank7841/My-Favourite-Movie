@@ -1,16 +1,14 @@
 # {My Faourite Movie Website}
-#### {This Website displays a brief infomation about Night Rider}, {2020 04 29}
+#### {This Website displays a brief infomation about Knight Rider}, {2020 04 29}
 #### By **{Frank Simiyu}**
 ## Description
-{My favourite movie web app dispalys description of the Movie night rider. it includes information about the creater of the show, seasons produced, and the casts. its purpose is to convince you to atleast watch the movie if not make it your favourite to.  }
+{My favourite movie web app dispalys description of the Movie Knight rider. it includes information about the creater of the show, seasons produced, and the casts. its purpose is to convince you to atleast watch the movie if not make it your favourite to.  }
 ## Setup/Installation Requirements
-* Laptop at 500
+* Laptop at 500 gb
+* 2gb RAM
 * you need any text editor prefferably visio code
 * google chrome browser since its a web app
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+{Navigate to my-Favorite folder, launch my-Favourite.html open with chrome browser. inace of any edits, open with vscode twext editor}
 ## Known Bugs
 {Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
 ## Technologies Used
