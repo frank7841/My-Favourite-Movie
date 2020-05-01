@@ -3,6 +3,7 @@ body{background-color: beige;
 h1{
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 color: chocolate;
+text-align: center;
 }
 p em{
     font-style:normal;
@@ -12,7 +13,7 @@ strong{ font-style: italic;
 }
 p{line-height: 0em;
 }
-ul {
+ul li a {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -24,6 +25,9 @@ img {
 }
 h3 {
     font-weight: normal;
+}
+h1.head {
+    color: sienna;
 }
 .column{
     float: left;
